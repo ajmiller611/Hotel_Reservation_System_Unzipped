@@ -1,12 +1,13 @@
 # Hotel_Reservation_System_Unzipped
 
 Overview
-	Team project for Software Engineering Course
-	ASP.NET web application and C# windows form application for hotel employees
-	Stores data in a SQL Server Database File
-	Facebook and Google account login functionality
-	Sends account register confirmation email to new users email
-	Sends room booking confirmation email
+
+Team project for Software Engineering Course
+ASP.NET web application and C# windows form application for hotel employees
+Stores data in a SQL Server Database File
+Facebook and Google account login functionality
+Sends account register confirmation email to new users email
+Sends room booking confirmation email
 	
 ASP.NET web application uses an external file to store sensitive information like Facebook and Google App login information,
 database connection string, and email account information used to send confirmation emails. The AppSettingSecret XML config file
